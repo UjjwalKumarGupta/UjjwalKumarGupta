@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ujjwal Gupta
-- 👀 I’m interested in Data !
+- 👋 Hi, I’m Ujjwal Gupta
+- 👀 I’m currently a graduate stident at Northeastern University !
 - 🌱 I’m currently learning Data science, data engineering, analysis, data warehousing & BI !
 <!---
 UjjwalKumarGupta/UjjwalKumarGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
